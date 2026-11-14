@@ -4,7 +4,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 
 Prototype of the core smart contract of **EduBridge**, a hypothetical permissioned blockchain register of course credits for academic mobility in Kazakhstan. Team 05, Final Project, Introduction to Finance, Astana IT University, 2026–2027.
 
-- Demo video (up to 3 minutes): `<paste the Google Drive link here, access for anyone with the link>`
+- Demo video (up to 3 minutes): `https://youtu.be/cwrGgesk0H4`
 - Testnet contract address: none. The prototype runs only on the local Hardhat network.
 
 ## What the prototype does
