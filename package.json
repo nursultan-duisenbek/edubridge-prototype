@@ -1,0 +1,22 @@
+{
+  "name": "edubridge-prototype",
+  "version": "1.0.0",
+  "description": "Educational project for the course Introduction to Finance. Not a real product, service or investment offer. Do not use with real funds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "demo": "hardhat run scripts/demo.js",
+    "node": "hardhat node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.6.1",
+    "hardhat": "^2.29.2",
+    "solc": "0.8.24"
+  },
+  "private": true
+}
